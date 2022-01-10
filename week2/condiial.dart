@@ -1,3 +1,5 @@
+import '../week5/class_singleton.dart';
+
 void main() {
   int money = 50;
   String userName = "veli";
