@@ -22,7 +22,7 @@ class User {
   }
 
   @Todo('seth', 'make this do something')
-  void a(args) {}
+  void a() {}
 }
 
 class Todo {
