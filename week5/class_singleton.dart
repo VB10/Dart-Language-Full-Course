@@ -3,8 +3,6 @@ import 'model/product_config_model.dart';
 void main(List<String> args) {
   final newProduct = Product.money;
 
-  calculateMoney(Product.money ?? 0);
-
 // xx
   productNameChange();
 // xx
